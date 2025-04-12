@@ -2,3 +2,6 @@ a.git status:tracked/untracked  بيفحص حالة الملف اذا هو
 b.git init:git repositryلل  initilization بعمل 
 c.git commit:يحفظ  التغييرات المرحلية التي أجريتها
 d.git push:رفع الملفات على المستودع
+
+q2:رح يصير في خطر على الملفات وممكن ترفع ملفات غير مرغوب فيها بدون مراجعة  git add ما بوافق احمد الراي لانه بدون ال 
+
