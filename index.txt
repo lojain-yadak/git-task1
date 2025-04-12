@@ -1,0 +1,4 @@
+a.git status:tracked/untracked  بيفحص حالة الملف اذا هو 
+b.git init:git repositryلل  initilization بعمل 
+c.git commit:يحفظ  التغييرات المرحلية التي أجريتها
+d.git push:رفع الملفات على المستودع
