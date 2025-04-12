@@ -17,3 +17,10 @@ b.1.Collaboration Tools
 
 c.true
 
+q4:
+1.  a.Pushes the local branch to the remote repository
+b.Sets the upstream reference 
+
+ Impact on Subsequent Usage:
+ a.Simplified git push Commands
+ b. Simplified git pull Commands
