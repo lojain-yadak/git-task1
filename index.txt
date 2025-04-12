@@ -5,3 +5,15 @@ d.git push:رفع الملفات على المستودع
 
 q2:رح يصير في خطر على الملفات وممكن ترفع ملفات غير مرغوب فيها بدون مراجعة  git add ما بوافق احمد الراي لانه بدون ال 
 
+q3:
+a. 1.gitlab
+2.Bitbucket
+
+b.1.Collaboration Tools
+2.Automation & DevOps Integration
+3.Access Control & Security
+4.Scalability & Flexibility
+5.Community & Ecosystem
+
+c.true
+
